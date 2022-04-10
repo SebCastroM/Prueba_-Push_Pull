@@ -6,3 +6,5 @@ Edicion desde GITHUB antes de un push
 
 Edicion simultanea bash
 Edicion simultanea HUB
+
+Cambio para pull sin commit en bash
