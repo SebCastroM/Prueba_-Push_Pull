@@ -1,3 +1,5 @@
 Texto inicial
 
 Texto antes del primer pull para bajar el README
+
+Edicion desde GITHUB antes de un push
