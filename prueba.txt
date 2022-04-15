@@ -16,3 +16,4 @@ Cambio para descargar
 
 
 FOOTER 2 (editado en bash sin pushear)
+enviar push sin el pull 
