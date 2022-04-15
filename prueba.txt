@@ -15,5 +15,5 @@ Cambio para pull sin commit en bash
 Cambio para descargar
 
 
-FOOTER 2 (editado en bash sin pushear)
+FOOTER 2 (editado en bash sin pushear) edit simultaneo bash
 enviar push sin el pull 
